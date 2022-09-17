@@ -1,7 +1,7 @@
 ##Name: 
 Irina Pika
 
-![IrinaPika](irinapika.jpg "Visual")
+![IrinaPika](IrinaPika.jpg "Visual")
 
 ##Connection: 
 irinapika@gmail.com, irina-pika#2934 (discord)
