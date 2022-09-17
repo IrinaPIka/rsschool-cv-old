@@ -1,16 +1,17 @@
-Irina Pika
+Name: Irina Pika
 
-irinapika@gmail.com
+Connection: irinapika@gmail.com, irina-pika#2934 (discord)
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое):
-I wish get new skills, upgrade my knowleges and change style my work. I want To learn work in command. An I want change my work. 
+About: I wish get new skills, upgrade my knowleges and change style my work. I want to learn how work in command. And I want change my work. 
 
-Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-I am an php-developer, create and support web-site. I use as base Bitrix and Webasist SMS. 
+Photo:  see irinapika.jpg in this branch
 
-Примеры кода. I don't have yet gith and any open collection of code. That project is my first attempt in that region. : )) But I have small site where is situated some primes of my interest: https://tri-stroki.ru/
+Skills: I am an php-developer, I create and support web-site. I use as base Bitrix and Webasist SMS. 
 
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.  This some of sites, that I creat and support now: https://ikamin.ru, https://skigu.ru, https://azbuka-interior.ru/ 
+Code prime: Now I solve only first task in codewars. It lies in this branch as separated file (prime_of_code). I have small site where is situated some primes of my interest: https://tri-stroki.ru/
 
-Образование (включая пройденные курсы и тренинги)  Novosibirsk State University, Mathematical department.  
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней) I know some thousand words and read the books and text, but my gramma is worse. And becose I cannot speak : ((  Intermediate level. 
+Experience. There are some of sites, that I create and support now: https://ikamin.ru, https://skigu.ru, https://azbuka-interior.ru/ 
+
+Education: Novosibirsk State University, Mathematical department.  I have some course by bitrix.
+
+English level: I know some thousand words and can read the books and text, but my gramma is worse. My sadness, I cannot speak : ((  Intermediate level. 
