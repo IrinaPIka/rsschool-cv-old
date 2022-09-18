@@ -1,7 +1,7 @@
 ## Name: 
 Irina Pika
 
-![IrinaPika](/rsschool-cv/cv/IrinaPika.png "Visual")
+![IrinaPika](IrinaPika.png "Visual")
 
 ## Connection: 
 irinapika@gmail.com, irina-pika#2934 (discord)
