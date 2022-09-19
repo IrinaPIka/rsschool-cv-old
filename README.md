@@ -1,2 +1,2 @@
 # rsschool-cv
-Задача CV#1
+[Irina Pika page](https://irinapika.github.io/rsschool-cv/cv "Irina Pika page")
